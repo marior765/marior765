@@ -4,10 +4,10 @@
 
 <p align="center">
   Building reliable mobile experiences and clean backend systems. <br/>
-  Passionate about TypeScript, Go, and writing code that lasts.
+  Passionate about TypeScript, Rust, and writing code that lasts.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <!-- Profile view counter (u8views) -->
   <a href="https://u8views.com/github/marior765">
     <img src="https://u8views.com/api/v1/github/profiles/39281678/views/day-week-month-total-count.svg" alt="Profile views"/>
@@ -21,9 +21,9 @@
   <a href="https://github.com/marior765?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-27-2bbc8a?style=for-the-badge" alt="Repositories"/>
   </a>
-</p>
+</p> -->
 
----
+/* ---
 
 ## 🚀 About Me
 
@@ -134,3 +134,4 @@
 <p align="center">
   <i>⭐️ From <a href="https://github.com/marior765">marior765</a> — thanks for stopping by!</i>
 </p>
+**/
