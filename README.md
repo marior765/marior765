@@ -1,132 +1,48 @@
-<h1 align="center">Hi there, I'm Denys 👋</h1>
+### Hi, I'm Denys 👋
 
-<h3 align="center">📱 Mobile Developer & Software Engineer</h3>
+[![Website Badge](https://img.shields.io/badge/-bohatyrchuk.dev-1f2937?style=flat&logo=Google-Chrome&logoColor=white)](https://bohatyrchuk.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/-dbohatyrchuk-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dbohatyrchuk)
+[![Medium Badge](https://img.shields.io/badge/-@d.bohatyrchuk-000000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@d.bohatyrchuk)
+[![LeetCode Badge](https://img.shields.io/badge/-marior765-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/marior765/)
+[![Gmail Badge](https://img.shields.io/badge/-d.bohatyrchuk@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:d.bohatyrchuk@gmail.com)
 
-<p align="center">
-  Building reliable mobile experiences and clean backend systems. <br/>
-  Passionate about TypeScript, Rust, and writing code that lasts.
-</p>
+## About Me
 
-<!-- ===== TEMPORARILY COMMENTED OUT — remove this line and the closing one to restore =====
+I'm Denys — a Software Engineer who solves the hard technical problems behind mobile and front-end products ⚙️🔌🦀
+ 
+Most of my work lives below the UI: native bridges (Swift / Kotlin / Obj-C / C++), hardware integrations (BLE, payment SDKs, device sensors), real-time systems, and offline-first architectures for unreliable networks. Over 8+ years across fintech, crypto, logistics, and public security I've built shared libraries, OpenAPI codegen pipelines, and the low-level plumbing that lets product teams ship fast on top.
+Rust enthusiast exploring dApps and WebAssembly on the side.
 
-<p align="center">
-  <a href="https://u8views.com/github/marior765">
-    <img src="https://u8views.com/api/v1/github/profiles/39281678/views/day-week-month-total-count.svg" alt="Profile views"/>
-  </a>
-</p>
+Based in Kraków 🇵🇱 — working globally, open to EEA & US time zones.
 
-<p align="center">
-  <a href="https://github.com/marior765?tab=followers">
-    <img src="https://img.shields.io/github/followers/marior765?label=Followers&style=for-the-badge&color=2bbc8a" alt="Followers"/>
-  </a>
-  <a href="https://github.com/marior765?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-27-2bbc8a?style=for-the-badge" alt="Repositories"/>
-  </a>
-</p>
+## ✍️ Writing
 
----
+- [Integrating the Checkout.com SDK into an Expo App: Why I Built My Own Native Bridge](https://medium.com/@d.bohatyrchuk/integrating-the-checkout-com-sdk-into-an-expo-app-why-i-built-my-own-native-bridge-2fc6c17c347c) — replacing Swift Package Manager with CocoaPods and resolving runtime dependency clashes
+- ...find more on <a href="https://medium.com/@d.bohatyrchuk">Medium</a>
 
-## 🚀 About Me
+## 🧭 Areas of Interest
 
-- 📱 I'm a **Mobile Developer / Software Engineer** focused on building polished, performant apps
-- 🛠️ I work across the stack with **TypeScript / Node.js** on the front and **Go** on the back
-- 🦀 Exploring **Rust** for systems-level reliability and performance
-- 🌱 Always learning, always shipping
-- 💬 Ask me about mobile architecture, TypeScript, and Go
+- Cross-platform mobile architecture (iOS · Android · Web from one codebase)
+- Native SDK integrations & hardware bridges (BLE, payments, sensors)
+- Blockchain, Web3 & dApps (ERC-20 / 721 / 1155, smart contracts, wallets)
+- Real-time systems (WebSockets, live maps, GPS tracking)
+- Offline-first & resilient apps for low-connectivity markets
+- Shared libraries, OpenAPI codegen & developer experience
+- Rust & WebAssembly
+- AI tooling & LLM-assisted workflows
 
----
+## 🛠️ Tech Stack
 
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="42" height="42" alt="Go"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="42" height="42" alt="Rust"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marior765&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marior765&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=marior765&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marior765&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marior765&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 🗂️ Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marior765&theme=github_dark" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marior765&theme=github_dark" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marior765&theme=github_dark" alt="Most Commit Language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marior765&theme=github_dark" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marior765&theme=github_dark&utcOffset=8" alt="Productive Time"/>
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/marior765">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/your-handle">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/marior765">marior765</a> — thanks for stopping by!</i>
-</p>
-
-===== END TEMPORARILY COMMENTED OUT ===== -->
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
